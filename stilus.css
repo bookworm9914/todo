@@ -1,0 +1,14 @@
+@charset "utf-8";
+header, footer, main{
+    max-width:800px;
+    width:80%;
+    padding:10px;
+    margin: auto;
+    font-family:sans-serif;
+}
+header, footer{
+    text-align: center;
+}
+main{
+    background:#9999ff;
+}
